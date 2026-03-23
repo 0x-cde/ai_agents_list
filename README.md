@@ -1,2 +1,2 @@
 # ai_agents_list
-List of AI Agents
+This is a list of websites related with AI agents to be used in detections
